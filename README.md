@@ -35,9 +35,9 @@ Hi, welcome to my github profile. My name is Rafael and I've been studying web d
           
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelschug&theme=dark&hide_border=true&count_private=true&include_all_commits=true&show_icons=true" />
-  </a>
+  </a> -->
   <a href="https://git.io/streak-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelschug&theme=dark&hide_border=true"/>
   </a>
