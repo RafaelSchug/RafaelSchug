@@ -1,7 +1,5 @@
 # Full Stack Developer
 
-Hi, welcome to my github profile. My name is Rafael and I've been studying web development at Kenzie Academy Brasil for the last year. During this period, I've been practicing and developing small applications in order to get familiar with front and back-end development as well as working together as a group. I've pinned my favourite projects I've worked on, so feel free to check them out.
-
 <a href='https://www.linkedin.com/in/rafael-schug/'>
   <img src='https://img.shields.io/static/v1?label&message=Linkedin&color=blue&style=for-the-badge&logo=linkedin'/>
 </a>
@@ -23,10 +21,6 @@ Hi, welcome to my github profile. My name is Rafael and I've been studying web d
   <img title='typescript' src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" width="40"/>
   <img title='react' src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" width="40"/>
   <img title='nodejs' src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img title='express' src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg" width="40"/>
-  <img title='python' src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" width="40"/>
-  <img title='flask' src="https://github.com/devicons/devicon/raw/master/icons/flask/flask-original.svg" width="40"/>
-  <img title='django' src="https://github.com/devicons/devicon/raw/master/icons/django/django-plain.svg" width="40"/>
 </div>
 
 #
